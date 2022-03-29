@@ -1,17 +1,15 @@
-<h1 align="center">Hi 🚀, I'm Mahabubul Hasan</h1>
-<h3 align="center">Wannabe Python Developer</h3>
+<h1 align="center">Hi :vulcan_salute:, I'm Mahabubul Hasan</h1>
+<h3 align="center">Wannabe Russ Hanneman</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhasan09&label=Profile%20views&color=0e75b6&style=flat" alt="mhasan09" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mhasan09" target="blank"><img src="https://img.shields.io/twitter/follow/mhasan09?logo=twitter&style=for-the-badge" alt="mhasan09" /></a> </p>
 
-- 🔭 I’m currently working on [DNCC ward data API](https://github.com/mhasan09/DCC-ward-data)
+- 🌱 I’m currently working **ReactJS**
 
-- 🌱 I’m currently learning **VueJS**
+- 🤝 I’m looking for help with **GraphQL**
 
-- 🤝 I’m looking for help with **AWS**
-
-- 💬 Ask me about **anything**
+- 💬 Ask me about **nothing**
 
 - ⚡ Fun fact **I secretly love PHP**
 
