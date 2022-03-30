@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mhasan09" target="blank"><img src="https://img.shields.io/twitter/follow/mhasan09?logo=twitter&style=for-the-badge" alt="mhasan09" /></a> </p>
 
-- 🌱 I’m currently working **ReactJS**
+- 🌱 I’m currently working on **ReactJS**
 
 - 🤝 I’m looking for help with **GraphQL**
 
