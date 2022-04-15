@@ -1,13 +1,11 @@
 <h1 align="center">Hi :vulcan_salute:, I'm Mahabubul Hasan</h1>
-<h3 align="center">Wannabe Russ Hanneman</h3>
+<!-- <h3 align="center">Wannabe Russ Hanneman</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhasan09&label=Profile%20views&color=0e75b6&style=flat" alt="mhasan09" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mhasan09" target="blank"><img src="https://img.shields.io/twitter/follow/mhasan09?logo=twitter&style=for-the-badge" alt="mhasan09" /></a> </p>
 
-- 🌱 I’m currently working on **ReactJS**
-
-- 🤝 I’m looking for help with **GraphQL**
+- 🌱 I’m currently working on **Redux**
 
 - 💬 Ask me about **nothing**
 
