@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mhasan09" target="blank"><img src="https://img.shields.io/twitter/follow/mhasan09?logo=twitter&style=for-the-badge" alt="mhasan09" /></a> </p>
 
-- 🌱 I’m currently working on **Redux**
+- 🌱 I’m currently working on **Celery**
 
 - ⚡ Fun fact **I secretly love PHP**
 
